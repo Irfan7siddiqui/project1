@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+}
+
+body {
+    background-color: black;
+
+}
+
+
+
+.navbar ul li {
+    display: inline;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+.navbar ul a {
+    color: azure;
+    margin: 10px;
+}
+
+.page {
+    display: grid;
+    position: absolute;
+    left: 450px;
+    top: 100px;
+    color: beige;
+    font-size: 30px;
+    border: 3px solid;
+    width: 50vh;
+    padding: 25px;
+    margin: 10px;
+}
+
+.page a {
+    display: flex;
+    color: whitesmoke;
+
+}
